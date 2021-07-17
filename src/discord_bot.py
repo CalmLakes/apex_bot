@@ -20,7 +20,7 @@ lucas_msg = emoji.emojize('Lucas is a wing man user Blugh Blugh Blugh Blugh. :fa
 meme_msg = 'Your a :regional_indicator_m::regional_indicator_e::regional_indicator_m::regional_indicator_e:'
 nathaniel_msg = 'Boink Boink Nathaniel is tweakin off the doink'
 
-
+# sal is awesome
 
 
 class MyClient(discord.Client):
