@@ -1,2 +1,2 @@
 # Description
-Code repository for custom apex RNG bot. Currently working on integrating it into pip and a secure way to distrubute and update :)
+Fun Apex Discord but. This code can be built and run to host your very own apex discord bot
